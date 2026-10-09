@@ -1,0 +1,8 @@
+modelo,enfoque_A_bspline_chol,enfoque_A_chol_fpca_media,enfoque_B_bspline_chol,enfoque_B_chol_fpca_media
+MLP,22913,16342,19073,16001
+Transformer,68545,68217,68353,68199
+FDNN_Direct,33865,33783,33817,33779
+FNN,2945,2124,2465,2081
+AdaFNN,1521,1439,1473,1435
+EEGNet,601,585,593,585
+CNN1D,7457,7457,7457,7457

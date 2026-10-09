@@ -1,0 +1,4 @@
+representacion,dimension_G,lambda_min,cond_G,error_max_factorizacion,error_max_distancia,n_curvas
+Enfoque A,11 x 11,0.000772,1399.215311,1.110223e-16,7.993606e-15,480
+"Enfoque B, theta",4 x 4,0.000061,6965.731495,0.0,1.887379e-15,480
+"Enfoque B, alfa",4 x 4,0.000061,6965.731495,0.0,2.567391e-15,480

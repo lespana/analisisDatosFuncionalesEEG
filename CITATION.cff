@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Si utiliza este código, cite la tesis y el repositorio."
+title: "analisisDatosFuncionalesEEG: Análisis de Datos Funcionales y Deep Learning para la clasificación experimental de Parkinson con EEG en reposo"
+type: software
+version: 1.0.0
+date-released: "2026-10-08"
+authors:
+  - family-names: "España Gamboa"
+    given-names: "Lady Johana"
+    affiliation: "Universidad Autónoma de Occidente"
+repository-code: "https://github.com/lespana/analisisDatosFuncionalesEEG"
+keywords:
+  - EEG
+  - Parkinson
+  - functional data analysis
+  - deep learning
+  - OpenNeuro ds003490
+preferred-citation:
+  type: thesis
+  thesis-type: "Tesis de maestría"
+  title: "Modelo basado en Deep Learning con Análisis de Datos Funcionales para la clasificación de pacientes con enfermedad de Parkinson usando señales de electroencefalograma"
+  authors:
+    - family-names: "España Gamboa"
+      given-names: "Lady Johana"
+  institution:
+    name: "Universidad Autónoma de Occidente, Facultad de Ingeniería y Ciencias Básicas, Maestría en Inteligencia Artificial y Ciencia de Datos"
+    city: "Santiago de Cali"
+    country: CO
+  year: 2026

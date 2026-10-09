@@ -1,0 +1,22 @@
+indicador,valor,fuente
+sesiones_candidatas_HC,25,cuaderno 01
+sesiones_candidatas_PD_OFF,25,cuaderno 01
+sujetos_incluidos_HC,24,cuaderno 01
+sujetos_incluidos_PD_OFF,24,cuaderno 01
+epocas_A2_total,729,cuaderno 02A
+epocas_HC,382,cuaderno 02A
+epocas_PD_OFF,347,cuaderno 02A
+k_optimo_A,9,cuaderno 02A (11 bases)
+k_optimo_B_theta,2,cuaderno 02B (4 bases)
+k_optimo_B_alfa,2,cuaderno 02B (4 bases)
+PAF_cog_mediana_HC_Hz,9.600644,cuaderno 01
+PAF_cog_mediana_PD_OFF_Hz,9.061264,cuaderno 01
+PAF_cog_U,418.0,cuaderno 01
+PAF_cog_p_bilateral,0.007580,cuaderno 01
+PAF_cog_rank_biserial,-0.451389,cuaderno 01
+PAF_argmax_p_bilateral,0.166605,cuaderno 01
+FPCA_A_componentes_por_canal_media,5.13,cuaderno 03
+FPCA_A_dimension_relleno_media,58.7,cuaderno 03
+FPCA_A_reduccion_pct,46.7,cuaderno 03
+FPCA_B_dimension_relleno_media,56.0,cuaderno 03
+interpretabilidad_error_max_logit,3.109e-14,cuaderno 05

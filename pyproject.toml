@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "parkinson-eeg-fda"
+version = "1.0.0"
+description = "Utilidades reutilizables (espectral, geometría funcional y evaluación por sujeto) del estudio EEG + ADF + Deep Learning para Parkinson (OpenNeuro ds003490)."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Lady Johana España Gamboa" }]
+keywords = ["EEG", "Parkinson", "functional data analysis", "B-spline", "FPCA", "deep learning"]
+dependencies = [
+    "numpy>=1.26",
+    "scipy>=1.11",
+    "pandas>=2.0",
+    "scikit-learn>=1.4",
+]
+
+[project.optional-dependencies]
+dev = ["nbformat>=5.9"]
+
+[project.urls]
+Repository = "https://github.com/lespana/analisisDatosFuncionalesEEG"
+
+[tool.setuptools.packages.find]
+where = ["src"]

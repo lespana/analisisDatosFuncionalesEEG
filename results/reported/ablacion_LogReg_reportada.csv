@@ -1,0 +1,7 @@
+metodo,balanced_acc_mean,balanced_acc_std,sensitivity_mean,sensitivity_std,specificity_mean,specificity_std,f1_mean,f1_std,auc_mean,auc_std
+Escalar theta+alfa+PAF,0.758,0.143,0.783,0.192,0.733,0.188,0.760,0.152,0.845,0.119
+PSD discreta 4-13 Hz,0.818,0.117,0.840,0.172,0.796,0.149,0.814,0.116,0.879,0.124
+PSD discreta 4-13 Hz + PCA,0.798,0.126,0.813,0.192,0.782,0.138,0.790,0.136,0.848,0.114
+A1 B-spline,0.792,0.114,0.840,0.155,0.744,0.145,0.795,0.109,0.806,0.153
+A1 Cholesky,0.818,0.109,0.840,0.155,0.796,0.149,0.816,0.103,0.879,0.097
+A1 Cholesky+FPCA,0.803,0.138,0.827,0.167,0.779,0.167,0.803,0.129,0.855,0.116
